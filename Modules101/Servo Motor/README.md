@@ -17,7 +17,7 @@ In this section, you will learn the following:
 
 **- Servo Control:** Basics of servo motor , turning the servo to a specific angle.
 
-**- Servo Control by an Input:** Controlling the servo using an input from the PC through the serial monitor.
+**- Servo Contorl with Serial Monitor:** Controlling the servo using an input from the PC through the serial monitor.
 
 **- Turning Servo by Time:** Making the servo rotate from 0 to 180 degrees and back to 0 degrees.
 
