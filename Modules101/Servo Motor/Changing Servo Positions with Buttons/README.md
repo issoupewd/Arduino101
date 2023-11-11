@@ -17,6 +17,6 @@ For this project, you will need the Arduino IDE.
 # Components:
 - Arduino
 - Servo motor
-- Buttons
+- 4 resistors, and 4 buttons
 - Breadboard and jumper wires
 
