@@ -5,7 +5,7 @@ In this project, you'll make an LED slowly increase in brightness as you change 
 # Resources:
 For this project, you will need the Arduino IDE.
 - To download the Arduino IDE, please visit: [Arduino Software](https://www.arduino.cc/en/software).
-- You can also simulate this project on Tinkercad: [Tinkercad Simulation]([https://www.tinkercad.com/things/fWGpPguLLh7?sharecode=sqnKvZdo6ctaM9dPt0waCe-44fUjPuLLFNniGsKoLXI](https://www.tinkercad.com/things/kwJmxVZkvuE?sharecode=p5TIxCl42H4k1A2V09Jq21PKXIB_6-N6IhmfD_NNigs).
+- You can also simulate this project on Tinkercad: [Tinkercad Simulation](https://www.tinkercad.com/things/kwJmxVZkvuE?sharecode=p5TIxCl42H4k1A2V09Jq21PKXIB_6-N6IhmfD_NNigs) .
 
 # Components:
 - Arduino
