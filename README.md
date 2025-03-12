@@ -34,9 +34,9 @@ This course was originally created in 2023 to help two of my classmates learn Ar
 - SONAR  
 
 ### LCD Displays  
-- Hello World  
+- Hello World  *(From 2023 uploaded 2024)* 
 - Displaying Phrases  
-- Duno Game  
+- Dino Game  *(Check [MaxImagination video](https://www.youtube.com/shorts/ijXk2A4cci8) and [Code & Diagram here](https://drive.google.com/drive/folders/10S0jpn1VzU7vTMm1bj8905NlxcSwiLFr) )*
 - Displaying Object Distance  
 - **New:** Displaying Objects on LCD  *(2024 update)*
 
