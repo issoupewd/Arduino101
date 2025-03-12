@@ -1,54 +1,60 @@
-# Arduino101
-an arduino course by issoupewd
+# Arduino101  
 
-# Contents:
+This course was originally created in 2023 to help two of my classmates learn Arduino. Later, in December 2024, a revised version with nearly the same structure featuring more precision and some new topics was presented as an online workshop series on the [@CELEC](https://github.com/celec-club) Discord server.  
 
-## Electronics 101
-- Theory to Reality: Resistor, Capacitor, LED, Breadboard
+- The [presentation](https://www.canva.com/design/DAGaAXWsPXg/DMP57keedVaj6DhXEbGTOQ/view?utm_content=DAGaAXWsPXg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdad447fbc7)  
 
-## LEDs 101
-- Hello World
-- Traffic Light Control by Time
-- Turns On LEDs with Buttons
-- Traffic Light Control by Buttons
-- LED Brightness Control by Code
-- LED Brightness Control by Potentiometer
+# Contents  
 
-## Modules 101
-- **Servo Motor:**
-  - Servo Control
-  - Turning Servo by Time
-  - Turning Servo by Potentiometer
-  - Changing Servo Positions with Buttons
+## Electronics 101  
+- Theory to Reality: Resistor, Capacitor, LED, Breadboard  
+  - Covered in the first pages of the presentation  
 
-- **Ultrasonic Sensor:**
-  - Theory
-  - Distance Measurement on PC
-  - Alarm System
-  - Opening a Door When an Object is Detected
-  - SONAR
+## LEDs 101  
+- Hello World  
+- Traffic Light Control by Time  
+- Turning LEDs On with Buttons  
+- Traffic Light Control by Buttons  
+- LED Brightness Control by Code  
+- LED Brightness Control by Potentiometer  
 
-- **LCD:**
-  - Hello World
-  - Displaying Phrases
-  - Duno Game
-  - Displaying Object Distance
+## Modules 101  
 
-- **RFID:**
-  - Theory
-  - UID Scan, Copy, Paste
-  - Student Tag
-  - Displaying Names of RFID User Cards
+### Servo Motor  
+- Servo Control  
+- Turning Servo by Time  
+- Turning Servo by Potentiometer  
+- Changing Servo Positions with Buttons  
 
-## Auto 101
-- Automatic Traffic Light
-- Automatic Train Gate and Alarm
-- Automatic Door System
-- Automatic Gate System with Authorization
-- Automate It 1
-- Automate It 2
+### Ultrasonic Sensor  
+- Theory  
+- Distance Measurement on PC  
+- Alarm System  
+- Opening a Door When an Object is Detected  
+- SONAR  
 
+### LCD Displays  
+- Hello World  
+- Displaying Phrases  
+- Duno Game  
+- Displaying Object Distance  
+- **New:** Displaying Objects on LCD  *(2024 update)*
 
+### OLED Displays *(2024 update)*  
+- Hello World on OLED  
+- Displaying Objects on OLED  
 
+### RFID  *( didn't do it )* 
+- Theory  
+- UID Scan, Copy, Paste  
+- Student Tag  
+- Displaying Names of RFID User Cards  
 
+## Auto 101  *(as a final project HW)* 
+- Automatic Traffic Light  
+- Automatic Train Gate and Alarm  
+- Automatic Door System  
+- Automatic Gate System with Authorization  
+- Automate It 1  
+- Automate It 2  
 
